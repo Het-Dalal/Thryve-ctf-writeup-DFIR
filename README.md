@@ -1,4 +1,4 @@
-# DFIR CTF Write-ups
+# Thryve CTF writeup for DFIR lab
 
 A collection of my Digital Forensics and Incident Response (DFIR) CTF write-ups, investigations, and learning notes.
 
